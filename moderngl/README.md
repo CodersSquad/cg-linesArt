@@ -19,20 +19,18 @@ Your program will be graded with the following requirements
   ```
 - Below the tests that will be executed by the reviewer
   ```
-  # Test 1 - 25 black lines
+  # Test 1 - 25 black lines (20 points)
   python linesArt.py --nLines 25
 
-  # Test 2 - 1000 black lines
+  # Test 2 - 1000 black lines (20 points)
   python linesArt.py --nLines 1000
 
-  # Test 3 - 50 random-color lines
+  # Test 3 - 50 random-color lines (20 points)
   python linesArt.py --nLines 100 --color
 
-  # Test 4 - 50000 black lines
+  # Test 4 - 50000 black lines (20 points)
   python linesArt.py --nLines 50000
 
-  # Test 5 - 50000 random-color lines
+  # Test 5 - 50000 random-color lines (20 points)
   python linesArt.py --nLines 50000 --color
   ```
-
-  ## 
